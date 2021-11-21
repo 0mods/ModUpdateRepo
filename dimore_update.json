@@ -1,6 +1,7 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/dimore",
     "1.16.5": {
+        "1.0.0.5": "Config fix, added generation range",
         "1.0.0.4": "Added Check updates. Download: https://www.curseforge.com/minecraft/mc-mods/dimore",
         "1.0.0.3": "Added Integrations. Download: https://www.curseforge.com/minecraft/mc-mods/dimore"
     },
