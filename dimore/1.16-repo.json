@@ -7,7 +7,7 @@
         "1.0.0.6": "Added Lapis Lazuli's and Quartz's ores. New repo for update checker system. Maximal ore in chunk - 100. Download: https://www.curseforge.com/minecraft/mc-mods/dimore/files/"
     },
     "promos": {
-        "1.16.5-latest": "1.0.0.5",
-        "1.16.5-recommended": "1.0.0.5"
+        "1.16.5-latest": "1.0.0.6",
+        "1.16.5-recommended": "1.0.0.6"
     }
 }
