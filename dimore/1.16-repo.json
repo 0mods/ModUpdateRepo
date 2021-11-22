@@ -1,9 +1,10 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/dimore",
     "1.16.5": {
-        "1.0.0.5": "Config fix, added generation range. Download: https://www.curseforge.com/minecraft/mc-mods/dimore/files/3532615",
+        "1.0.0.3": "Added Integrations. Download: https://www.curseforge.com/minecraft/mc-mods/dimore",
         "1.0.0.4": "Added Check updates. Download: https://www.curseforge.com/minecraft/mc-mods/dimore",
-        "1.0.0.3": "Added Integrations. Download: https://www.curseforge.com/minecraft/mc-mods/dimore"
+        "1.0.0.5": "Config fix, added generation range. Download: https://www.curseforge.com/minecraft/mc-mods/dimore/files/3532615",
+        "1.0.0.6": "Added Lapis Lazuli's and Quartz's ores. New repo for update checker system. Download: https://www.curseforge.com/minecraft/mc-mods/dimore/files/"
     },
     "promos": {
         "1.16.5-latest": "1.0.0.5",
