@@ -5,10 +5,11 @@
         "1.0.0.4": "Added Check updates. Download: https://www.curseforge.com/minecraft/mc-mods/dimore",
         "1.0.0.5": "Config fix, added generation range. Download: https://www.curseforge.com/minecraft/mc-mods/dimore/files/3532615",
         "1.0.0.6": "Added Lapis Lazuli's and Quartz's ores. New repo for update checker system. Maximal ore in chunk - 100. Vanilla recipes have been patched and replaced with recipes from DimOre. Download: https://www.curseforge.com/minecraft/mc-mods/dimore/files/",
-        "1.0.0.7": "Removed Nether-Quartz from Overworld"
+        "1.0.0.7": "Removed Nether-Quartz from Overworld",
+        "1.0.0.8": "Recipe Repatch"
     },
     "promos": {
-        "1.16.5-latest": "1.0.0.7",
+        "1.16.5-latest": "1.0.0.8",
         "1.16.5-recommended": "1.0.0.7"
     }
 }
